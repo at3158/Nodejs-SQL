@@ -1,0 +1,10 @@
+﻿{
+  "name": "Nodejs_SQL",
+  "version": "0.0.0",
+  "description": "Nodejs-SQL",
+  "main": "app.js",
+  "author": {
+    "name": "j",
+    "email": ""
+  }
+}
